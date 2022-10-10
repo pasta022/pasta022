@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pasta022
+- 👋 Hi, I’m Anu
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any project
